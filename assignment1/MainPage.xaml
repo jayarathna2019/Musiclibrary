@@ -20,7 +20,7 @@
 
         <Button Content="Signin" HorizontalAlignment="Left" Margin="287,468,0,0" VerticalAlignment="Top" Click="Button_Click"/>
         <Button Content="Signup" HorizontalAlignment="Left" Margin="507,462,0,0" VerticalAlignment="Top"/>
-        <CheckBox Content="Keep me signed in" HorizontalAlignment="Left" Margin="274,504,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="Keep Me Signed In" HorizontalAlignment="Left" Margin="274,504,0,0" VerticalAlignment="Top"/>
         <PasswordBox HorizontalAlignment="Left" Margin="555,315,0,0" VerticalAlignment="Top"/>
 
 
