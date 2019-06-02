@@ -27976,11 +27976,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jayar\\source\\repos\\assignment1\\assignment1\\assignment1.csproj",
+      "projectUniqueName": "C:\\Users\\jayar\\Desktop\\GITHUB_FOLDER\\MusicLibrary\\assignment1\\assignment1.csproj",
       "projectName": "assignment1",
-      "projectPath": "C:\\Users\\jayar\\source\\repos\\assignment1\\assignment1\\assignment1.csproj",
+      "projectPath": "C:\\Users\\jayar\\Desktop\\GITHUB_FOLDER\\MusicLibrary\\assignment1\\assignment1.csproj",
       "packagesPath": "C:\\Users\\jayar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jayar\\source\\repos\\assignment1\\assignment1\\obj\\",
+      "outputPath": "C:\\Users\\jayar\\Desktop\\GITHUB_FOLDER\\MusicLibrary\\assignment1\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

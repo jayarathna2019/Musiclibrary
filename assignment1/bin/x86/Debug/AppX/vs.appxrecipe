@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>6c3792bc-5b7a-49ef-bd23-91d6e10f9315</PackageIdentityName>
     <PackageIdentityPublisher>CN=jayar</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\jayar\source\repos\assignment1\assignment1\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\jayar\source\repos\assignment1\assignment1\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>6610C6869A307134B613607DE29F85DC82B579D67F6B867AC9E9211741CDC5D3</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>6c3792bc-5b7a-49ef-bd23-91d6e10f9315_1.0.0.0_x86__57zqnttx2tgsc</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>6c3792bc-5b7a-49ef-bd23-91d6e10f9315_57zqnttx2tgsc!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\jayar\source\repos\assignment1\assignment1\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-23T16:49:55.178</Modified>
+      <Modified>2019-05-26T17:42:45.533</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\jayar\source\repos\assignment1\assignment1\bin\x86\Debug\assignment1.exe">
+    <AppxPackagedFile Include="C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\bin\x86\Debug\assignment1.exe">
       <PackagePath>entrypoint\assignment1.exe</PackagePath>
-      <Modified>2019-05-23T16:49:54.353</Modified>
+      <Modified>2019-05-26T17:42:44.454</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -498,67 +498,71 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2018-10-23T08:33:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jayar\source\repos\assignment1\assignment1\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2019-05-20T22:52:04.651</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jayar\source\repos\assignment1\assignment1\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2019-05-13T16:58:37.443</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jayar\source\repos\assignment1\assignment1\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-05-13T16:58:37.443</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jayar\source\repos\assignment1\assignment1\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-05-13T16:58:37.443</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jayar\source\repos\assignment1\assignment1\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-05-13T16:58:37.443</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jayar\source\repos\assignment1\assignment1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-05-13T16:58:37.443</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jayar\source\repos\assignment1\assignment1\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-05-13T16:58:37.443</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jayar\source\repos\assignment1\assignment1\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-05-13T16:58:37.443</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jayar\source\repos\assignment1\assignment1\bin\x86\Debug\assignment1.xr.xml">
+    <AppxPackagedFile Include="C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\bin\x86\Debug\assignment1.xr.xml">
       <PackagePath>assignment1.xr.xml</PackagePath>
-      <Modified>2019-05-21T17:42:58.503</Modified>
+      <Modified>2019-05-26T17:42:44.250</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jayar\source\repos\assignment1\assignment1\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-05-23T16:49:54.140</Modified>
+      <Modified>2019-05-26T17:42:44.257</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jayar\source\repos\assignment1\assignment1\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-05-23T16:49:54.141</Modified>
+      <Modified>2019-05-26T17:42:44.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\bin\x86\Debug\musicpage.xbf">
+      <PackagePath>musicpage.xbf</PackagePath>
+      <Modified>2019-05-26T17:42:44.258</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-10-23T07:44:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jayar\source\repos\assignment1\assignment1\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-05-20T22:58:37.974</Modified>
+      <Modified>2019-05-26T17:42:45.069</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jayar\source\repos\assignment1\assignment1\bin\x86\Debug\Core\assignment1.exe">
+    <AppxPackagedFile Include="C:\Users\jayar\Desktop\GITHUB_FOLDER\MusicLibrary\assignment1\bin\x86\Debug\Core\assignment1.exe">
       <PackagePath>assignment1.exe</PackagePath>
-      <Modified>2019-05-23T16:49:55.153</Modified>
+      <Modified>2019-05-26T17:42:45.517</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
